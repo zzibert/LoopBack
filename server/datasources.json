@@ -12,5 +12,15 @@
     "name": "mysqlDs",
     "user": "demo",
     "connector": "mysql"
+  },
+  "mongoDs": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "demo",
+    "password": "neki",
+    "name": "mongoDs",
+    "user": "demo",
+    "connector": "mongodb"
   }
 }
